@@ -2,10 +2,6 @@
 
 Hello! I'm Simon, a 20-year-old Computer Science enthusiast with a passion for technology and its potential to change the world. Currently on a journey through the vast and ever-evolving landscape of tech, I'm exploring different areas to find my niche. When I'm not immersed in my studies, I cherish the time spent reading, mastering the game of chess, and coding projects that pique my curiosity.
 
-## 🔍 Exploring the Horizons
-
-The world of Computer Science is vast, and I'm on a mission to explore as much of it as possible. From the depths of software development to the frontiers of artificial intelligence, my academic journey is about discovering what resonates with my passions and skills. I'm always on the lookout for new challenges that stretch my capabilities and deepen my understanding.
-
 ## 📚 Interests
 
 - **Reading**: Whether it's the latest tech news, classic literature, or cutting-edge research papers, reading is my window to the world's knowledge.
