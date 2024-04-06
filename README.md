@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hello! I'm Simon, a 20-year-old Computer Science enthusiast with a passion for technology and its potential to change the world. Currently on a journey through the vast and ever-evolving landscape of tech, I'm exploring different areas to find my niche. When I'm not immersed in my studies, I cherish the time spent reading, mastering the game of chess, and coding projects that pique my curiosity.
+Hello! I'm Simon, a 21-year-old Computer Science enthusiast with a passion for technology and its potential to change the world. Currently on a journey through the vast and ever-evolving landscape of tech, I'm exploring different areas to find my niche. When I'm not immersed in my studies, I cherish the time spent reading, mastering the game of chess, and coding projects that pique my curiosity.
 
 ## 📚 Interests
 
