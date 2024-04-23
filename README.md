@@ -1,6 +1,9 @@
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
+
 # 👨‍💻 About Me
 
-Hello! I'm Simon, a 21-year-old Computer Science enthusiast with a passion for technology and its potential to change the world. Currently on a journey through the vast and ever-evolving landscape of tech, I'm exploring different areas to find my niche. When I'm not immersed in my studies, I cherish the time spent reading, mastering the game of chess, and coding projects that pique my curiosity.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=435&lines=Hello!+I'm+Simon+(21+y.o.)" alt="Typing SVG1" style="margin-right: 10px;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=and+I+am+a+Computer+Science+student." alt="Typing SVG2"/>
 
 ## 📚 Interests
 
