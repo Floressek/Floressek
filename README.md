@@ -18,3 +18,8 @@ I'm diving into various fields within Computer Science, with a keen interest in 
 ## 🤝 Let's Connect
 
 I'm excited to be part of the GitHub community, where collaboration and innovation thrive. If you're interested in discussing technology, sharing insights, or collaborating on a project, feel free to reach out. Let's explore the endless possibilities of technology together!
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Floressek/count.svg" />
+</p>
