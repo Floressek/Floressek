@@ -5,7 +5,7 @@
 </div>
 
 ## 🎓 About Me
-Computer Science student at WAT (Wojskowa Akademia Techniczna), focusing on Data Science and Machine Learning. Currently exploring the vast world of software development and AI while building practical skills through hands-on projects.
+Computer Science student (3rd year) at WAT (Wojskowa Akademia Techniczna), focusing on Data Science and Machine Learning. Currently exploring the vast world of software development and AI while building practical skills through hands-on projects.
 
 ## 🛠️ Technical Stack
 ```
