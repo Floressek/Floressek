@@ -16,9 +16,9 @@ Learning:        Machine Learning, Data Science Libraries, Cloud Platforms
 ```
 
 ## 📊 Recent Projects
-- **Gmail Extractor Automation** - Email content extraction and processing system with Google Sheets integration
+- **Gmail Extractor Automation** - Email content extraction and processing system with Google / Outlook integration
 - **RAG WhatsApp Chatbot** - Conversational AI implementation using MySQL and Azure Cosmos DB
-- **Docker & ML Applications** - Containerized R-based applications for data processing
+- **Docker & ML Applications** - Containerized Python / R-based applications for data processing
 - **Web Development** - Experience with JavaScript/TypeScript applications
 
 ## 🌱 Currently Learning
