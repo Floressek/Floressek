@@ -1,7 +1,7 @@
 <h1 align="center">Simon | CS Student & Tech Enthusiast 👨‍💻</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=435&lines=Computer+Science+Student+%7C+21+y.o." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=435&lines=Computer+Science+Student+%7C+22+y.o." alt="Typing SVG"/>
 </div>
 
 ## 🎓 About Me
