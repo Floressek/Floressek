@@ -34,5 +34,14 @@ Learning:        Machine Learning, Data Science Libraries, Cloud Platforms
   <p>Open to collaboration and learning opportunities!</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-florek-33a968296/)
+
+
+  <div>
+    <picture>
+      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/floressek/floressek/output/github-snake-dark.svg">
+      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/floressek/floressek/output/github-snake.svg">
+      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
+    </picture>
+  </div>
   
 </div>
