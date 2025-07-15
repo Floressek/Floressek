@@ -35,8 +35,4 @@ Learning:        Machine Learning, Data Science Libraries, Cloud Platforms
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-florek-33a968296/)
   
-  <p> 
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Floressek/count.svg" />
-  </p>
 </div>
