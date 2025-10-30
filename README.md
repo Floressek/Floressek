@@ -16,8 +16,8 @@ Learning:        Machine Learning, Data Science Libraries, Cloud Platforms
 ```
 
 ## 📊 Recent Projects
-- **Gmail Extractor Automation** - Email content extraction and processing system with Google / Outlook integration
-- **RAG WhatsApp Chatbot** - Conversational AI implementation using MySQL and Azure Cosmos DB
+- **Invoice OCR** - Advanced Nest.js project for extracting data from invoices, and sending it to an OLAP
+- **ImprovedRag** - Exploring methods of improving RAG type chatbots, bachelor's project
 - **Docker & ML Applications** - Containerized Python / R-based applications for data processing
 - **Web Development** - Experience with JavaScript/TypeScript applications
 
