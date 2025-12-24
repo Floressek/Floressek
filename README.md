@@ -9,9 +9,9 @@ Computer Science student (4th year) at WAT (Wojskowa Akademia Techniczna), focus
 
 ## 🛠️ Technical Stack
 ```
-Languages:       Python, SQL, C++, Java, C, JavaScript, TypeScript 
+Languages:       Python, SQL, JavaScript, TypeScript, C#, Java,  
 Tools:           Docker, Git, Jupyter Notebook, JetBrains Stack
-Databases:       MySQL, MongoDB, Oracle, Weaviate, Azure MongoDB vCore
+Databases:       MySQL, MongoDB, Oracle, Qdrant, Azure MongoDB vCore
 Learning:        Machine Learning, Data Science Libraries, Cloud Platforms
 ```
 
