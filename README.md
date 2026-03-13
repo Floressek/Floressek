@@ -5,13 +5,13 @@
 </div>
 
 ## 🎓 About Me
-Computer Science engineer (4th year) at WAT (Wojskowa Akademia Techniczna), focusing on Data Engineering and Machine Learning. Currently exploring the vast world of software development and AI while building practical skills through hands-on projects.
+Computer Science engineer (4th year - 1st year of masters on quantum computing) at WAT (Wojskowa Akademia Techniczna), focusing on Data Engineering and Machine Learning. Currently exploring the vast world of software development and AI while building practical skills through hands-on projects.
 
 ## 🛠️ Technical Stack
 ```
-Languages:       Python, SQL, JavaScript, TypeScript, C#, Java,  
-Tools:           Docker, Git, Jupyter Notebook, JetBrains Stack
-Databases:       MySQL, MongoDB, Oracle, Qdrant, Azure MongoDB vCore
+Languages:       Python, SQL, JavaScript, TypeScript, Java,  
+Tools:           Docker, Git, Terraform, Jupyter Notebook, JetBrains Stack
+Databases:       MySQL, MongoDB, Postgres, Oracle, Qdrant, Azure MongoDB vCore
 Learning:        Machine Learning, Data Science Libraries, Cloud Platforms
 ```
 
