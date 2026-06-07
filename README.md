@@ -1,4 +1,4 @@
-<h1 align="center">Simon | AI/ML Engineer 👨‍💻</h1>
+<h1 align="center">Simon | ML/AI Engineer 👨‍💻</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=435&lines=Computer+Science+Engineer+%7C+23+y.o." alt="Typing SVG"/>
