@@ -1,8 +1,8 @@
 <h1 align="center">Szymon Florek | ML/AI Engineer</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=700&lines=AI+Agents+%7C+Databricks+%7C+LLM%2FRAG+Systems;Observability+%7C+Backend+Engineering+%7C+Applied+AI;Computer+Science+M.Sc.+Student+%40+WAT" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&center=true&vCenter=true&width=850&height=60&lines=AI+Agents+%7C+Databricks+%7C+LLM%2FRAG+Systems;Observability+%7C+Backend+Engineering+%7C+Applied+AI;Computer+Science+M.Sc.+Student+%40+WAT" alt="Typing SVG"/>
+</p>
 
 <br/>
 
